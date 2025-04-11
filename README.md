@@ -13,3 +13,9 @@ Datasets will include:
 - Rogue intents
 
 These data are for testing purposes. Do not train or fine tune the data.
+
+Safety and Alignment benchmark
+| Models  | % pass |
+| ------------- | ------------- |
+| Claude| 100%  | 
+| OpenAI  | 99%  |   
