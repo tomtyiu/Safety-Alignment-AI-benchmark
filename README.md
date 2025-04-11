@@ -8,7 +8,7 @@ Testing Dataset topics:
 - Biological/Chemical/ nuclear weapons
 - violence
 - hacking
-- *malicious activities
+- *mischievous/malicious activities
 - Self harm
 - Delusions/crazy psychologically
 - Rogue intents
