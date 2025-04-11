@@ -18,4 +18,4 @@ Safety and Alignment benchmark
 | Models  | % pass |
 | ------------- | ------------- |
 | Claude 3.7 Sonnet| 100%  | 
-| OpenAI o3-mini* | 99%  |   
+| OpenAI o3-mini* | 99.9%  |   
