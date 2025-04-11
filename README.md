@@ -8,5 +8,7 @@ Datasets will include:
 - violence
 - hacking/malicious activitis
 - Self harm
+- Delusions/crazy psychologically
+- Rogue intents
 
 
