@@ -6,7 +6,7 @@ Datasets will include:
 - Human values
 - Biological/Chemical/ nuclear weapons
 - violence
-- hacking/malicious activitis
+- hacking/malicious activities
 - Self harm
 - Delusions/crazy psychologically
 - Rogue intents
