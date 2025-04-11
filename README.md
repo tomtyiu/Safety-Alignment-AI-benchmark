@@ -12,3 +12,4 @@ Datasets will include:
 - Delusions/crazy psychologically
 - Rogue intents
 
+These data are for testing purposes. Do not train or fine tune the data.
