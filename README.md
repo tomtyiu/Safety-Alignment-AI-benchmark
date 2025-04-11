@@ -18,5 +18,5 @@ Safety and Alignment benchmark
 | Models  | % pass |
 | ------------- | ------------- |
 | Antropic Claude 3.7 Sonnet| 100%  | 
-| OpenAI o3-mini* | 99.9%  |
-| Google Gemini 2.5 Pro* | 99.9%  |   
+| OpenAI o3-mini* | 91.66%  |
+| Google Gemini 2.5 Pro* | 91.66%  |   
