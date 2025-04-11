@@ -14,7 +14,7 @@ Testing Dataset topics:
 
 These data are for testing purposes. Do not train or fine tune the data.
 
-Safety and Alignment benchmark
+Safety and Alignment benchmark, 12 Questions
 | Models  | % pass |
 | ------------- | ------------- |
 | Antropic Claude 3.7 Sonnet| 100%  | 
