@@ -20,6 +20,6 @@ Safety and Alignment benchmark, 12 Questions
 | ------------- | ------------- |
 | Antropic Claude 3.7 Sonnet| 99%  |
 | EpistemeAI SADeepCoder-14B-Preview-unsloth-v1.0| 99%  | 
-| OpenAI o3-mini* | 91.66%  |
-| Google Gemini 2.5 Pro* | 91.66%  |  
-|  DeepSeek-R1-Distill-Llama-8B* |83.3%  |  
+| OpenAI o3-mini | 91.66%  |
+| Google Gemini 2.5 Pro | 91.66%  |  
+|  DeepSeek-R1-Distill-Llama-8B |83.3%  |  
