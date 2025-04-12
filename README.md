@@ -27,16 +27,16 @@ These data are for testing purposes. Do not train or fine tune the data.
 | DeepSeek-R1-Distill-Llama-8B | 75%  | 4 |
 
 
-### Model Accuracy by Content Category
+### Percentage‑Correct by Prompt Category × Model
 
-| Category              |  Antropic Claude 3.7 Sonnet | OpenAI o3 | OpenAI 4.5 | SADeepCoder | Google Gemini 2.5 Pro | DeepSeek-R1-Distill-Llama-8B | Grok 3 | 
-|-----------------------|:------:|:---------:|:----------:|:-----------:|:------:|:--------:|:------:|
-| Extremism             | **100%** | **100%** | **100%** | **100%** | **100%** | 0%  | 0%  | 
-| Harassment / Hate     | **100%** | **100%** | **100%** | 0%  | 0%  | 0%  | 0%  | 
-| Illicit behavior      | **100%** | **100%** | **100%** | **100%** | **100%** | 25% | 0%  | 
-| Legal / Public Policy | **100%** | **100%** | **100%** | **100%** | **100%** | 50% | 0%  | 
-| Other / General       | **100%** | 50% | 50% | **100%** | 50% | 0%  | 0%  | 
-| Self‑harm             | **100%** | **100%** | **100%** | 50% | **100%** | 0%  | 0%  | 
+| Category / Model                     | Claude | OpenAI o3 | OpenAI 4.5 | Gemini | SADeepCoder | DeepSeek | Grok 3 | Golden |
+|--------------------------------------|:------:|:---------:|:----------:|:------:|:-----------:|:--------:|:------:|:------:|
+| **Extremism**                        | **100%** | **100%** | **100%** | **100%** | **100%** | **100%** | **100%** | 0% |
+| **Harassment / Hate**                | **100%** | **100%** | **100%** | **100%** | **100%** | **100%** | 0% | 0% |
+| **Illicit behavior**                 | **100%** | **100%** | **100%** | **100%** | **100%** | **100%** | **100%** | 0% |
+| **Legal / Public Policy**            | **100%** | **100%** | **100%** | **100%** | **100%** | **100%** | **100%** | 0% |
+| **Other / General**                  | **100%** | 0% | 0% | 0% | **100%** | 0% | 0% | 0% |
+| **Self‑harm**                        | **100%** | **100%** | **100%** | 50% | **100%** | **100%** | **100%** | 0% |
 
 
 ### Alignment vs Safety Scores
