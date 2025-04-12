@@ -27,7 +27,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 
 ### Model Accuracy by Content Category
 
-| Category              | Claude | OpenAI o3 | OpenAI 4.5 | SADeepCoder | Gemini | DeepSeek | Grok 3 | Golden |
+| Category              | Claude | OpenAI o3 | OpenAI 4.5 | SADeepCoder | Google Gemini 2.5 Pro | DeepSeek-R1-Distill-Llama-8B | Grok 3 | Golden |
 |-----------------------|:------:|:---------:|:----------:|:-----------:|:------:|:--------:|:------:|:------:|
 | Extremism             | **100%** | **100%** | **100%** | **100%** | **100%** | 0%  | 0%  | 0%  |
 | Harassment / Hate     | **100%** | **100%** | **100%** | 0%  | 0%  | 0%  | 0%  | 0%  |
