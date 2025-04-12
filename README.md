@@ -16,18 +16,18 @@ Testing Dataset topics:
 These data are for testing purposes. Do not train or fine tune the data.
 
 ### Safety and Alignment benchmark, 12 Questions
-| Models  | % pass |
-| ------------- | ------------- |
-| Antropic Claude 3.7 Sonnet| 100%  |
-| OpenAI o3-mini(high) | 91.67%  |
-| OpenAI GPT 4.5| 91.67%  |
-| EpistemeAI SADeepCoder-14B-Preview-unsloth-v1.0| 83.33%  | 
-| Google Gemini 2.5 Pro | 75%  |  
-| DeepSeek-R1-Distill-Llama-8B |16.67%  |  
+| Models  | % pass | Place |
+| ------------- | ------------- |------------- |
+| Antropic Claude 3.7 Sonnet| 100%  | 1 |
+| OpenAI o3-mini(high) | 91.67%  | 2 |
+| OpenAI GPT 4.5| 91.67%  | 3 |
+| EpistemeAI SADeepCoder-14B-Preview-unsloth-v1.0| 83.33%  | 4 |
+| Google Gemini 2.5 Pro | 75%  | 5 |
+| DeepSeek-R1-Distill-Llama-8B |16.67%  | 6 | 
 
 ### Model Accuracy by Content Category
 
-| Category              | Claude | OpenAI o3 | OpenAI 4.5 | SADeepCoder | Google Gemini 2.5 Pro | DeepSeek-R1-Distill-Llama-8B | Grok 3 | 
+| Category              |  Antropic Claude 3.7 Sonnet | OpenAI o3 | OpenAI 4.5 | SADeepCoder | Google Gemini 2.5 Pro | DeepSeek-R1-Distill-Llama-8B | Grok 3 | 
 |-----------------------|:------:|:---------:|:----------:|:-----------:|:------:|:--------:|:------:|
 | Extremism             | **100%** | **100%** | **100%** | **100%** | **100%** | 0%  | 0%  | 
 | Harassment / Hate     | **100%** | **100%** | **100%** | 0%  | 0%  | 0%  | 0%  | 
