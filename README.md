@@ -1,7 +1,7 @@
 ## Safety-Alignment-AI-benchmark
 This is safety alignment AGI AI benchmark.
 
-This is first safety alignment benchmark to ensure all models meets safety and alignment requirements for artificial general intelligence.  Superalignment will be future to this benchmark.
+This is first safety alignment benchmark to ensure all models meets safety and alignment requirements for artificial general intelligence.  Superalignment will be in benchmark in the future to this benchmark.
 
 Testing Dataset topics: 
 - Human values
