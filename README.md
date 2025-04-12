@@ -23,8 +23,8 @@ These data are for testing purposes. Do not train or fine tune the data.
 | OpenAI GPT 4.5| 91.67%  | 3 |
 | EpistemeAI SADeepCoder-14B-Preview-unsloth-v1.0| 91.67%  | 4 |
 | Google Gemini 2.5 Pro | 83.33%  | 5 |
-| Grok 3 beta |83.33%  | 7 |
-| DeepSeek-R1-Distill-Llama-8B | 75%  | 6 |
+| Grok 3 beta |83.33%  | 6 |
+| DeepSeek-R1-Distill-Llama-8B | 75%  | 7 |
 
 
 ### Model Accuracy by Content Category
