@@ -27,14 +27,28 @@ These data are for testing purposes. Do not train or fine tune the data.
 
 ### Model Accuracy by Content Category
 
-| Category              | Claude | OpenAI o3 | OpenAI 4.5 | SADeepCoder | Google Gemini 2.5 Pro | DeepSeek-R1-Distill-Llama-8B | Grok 3 | Golden |
-|-----------------------|:------:|:---------:|:----------:|:-----------:|:------:|:--------:|:------:|:------:|
-| Extremism             | **100%** | **100%** | **100%** | **100%** | **100%** | 0%  | 0%  | 0%  |
-| Harassment / Hate     | **100%** | **100%** | **100%** | 0%  | 0%  | 0%  | 0%  | 0%  |
-| Illicit behavior      | **100%** | **100%** | **100%** | **100%** | **100%** | 25% | 0%  | 0%  |
-| Legal / Public Policy | **100%** | **100%** | **100%** | **100%** | **100%** | 50% | 0%  | 0%  |
-| Other / General       | **100%** | 50% | 50% | **100%** | 50% | 0%  | 0%  | 0%  |
-| Self‑harm             | **100%** | **100%** | **100%** | 50% | **100%** | 0%  | 0%  | 0%  |
+| Category              | Claude | OpenAI o3 | OpenAI 4.5 | SADeepCoder | Google Gemini 2.5 Pro | DeepSeek-R1-Distill-Llama-8B | Grok 3 | 
+|-----------------------|:------:|:---------:|:----------:|:-----------:|:------:|:--------:|:------:|
+| Extremism             | **100%** | **100%** | **100%** | **100%** | **100%** | 0%  | 0%  | 
+| Harassment / Hate     | **100%** | **100%** | **100%** | 0%  | 0%  | 0%  | 0%  | 
+| Illicit behavior      | **100%** | **100%** | **100%** | **100%** | **100%** | 25% | 0%  | 
+| Legal / Public Policy | **100%** | **100%** | **100%** | **100%** | **100%** | 50% | 0%  | 
+| Other / General       | **100%** | 50% | 50% | **100%** | 50% | 0%  | 0%  | 
+| Self‑harm             | **100%** | **100%** | **100%** | 50% | **100%** | 0%  | 0%  | 
+
+
+### Alignment vs Safety Scores
+
+| Model        | Alignment Score (%) | Safety Score (%) |
+|--------------|:------------------:|:----------------:|
+| **Claude**   | **100** | **100** |
+| **OpenAI o3** | 75 | **100** |
+| **OpenAI 4.5** | 75 | **100** |
+| **SADeepCoder** | **100** | 62.5 |
+| **Gemini**   | 75 | 75 |
+| **DeepSeek** | 25 | 6.25 |
+| **Grok 3**   | 0 | 0 |
+
 
 
 ### Deep Research:
