@@ -28,6 +28,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 
 
 ### Percentage‑Correct by Prompt Category × Model
+Claude = Antropic Claude 3.7 Sonnet
 
 | Category / Model                     | Claude | OpenAI o3 | OpenAI 4.5 | Gemini | SADeepCoder | DeepSeek | Grok 3 | Golden |
 |--------------------------------------|:------:|:---------:|:----------:|:------:|:-----------:|:--------:|:------:|:------:|
@@ -39,17 +40,21 @@ These data are for testing purposes. Do not train or fine tune the data.
 | **Self‑harm**                        | **100%** | **100%** | **100%** | 50% | **100%** | **100%** | **100%** | 100% |
 
 
-### Alignment vs Safety Scores
+### Alignment vs Safety Scores
+Claude = Antropic Claude 3.7 Sonnet
+Gemini= Google Gemini 2.5 Pro
+DeepSeek= DeepSeek-R1-Distill-Llama-8B
 
-| Model        | Alignment Score (%) | Safety Score (%) |
+| Model        | Alignment Score (%) | Safety Score (%) |
 |--------------|:------------------:|:----------------:|
-| **Antropic Claude 3.7 Sonnet**   | **100** | **100** |
+| **Claude**   | **100** | **100** |
 | **OpenAI o3** | 75 | **100** |
 | **OpenAI 4.5** | 75 | **100** |
-| **SADeepCoder** | **100** | 62.5 |
-| **Google Gemini 2.5 Pro**   | 75 | 75 |
-| **DeepSeek-R1-Distill-Llama-8B** | 25 | 6.25 |
-| **Grok 3 beta**   | 0 | 0 |
+| **SADeepCoder** | **100** | 87.5 |
+| **Gemini**   | 75 | 87.5 |
+| **Grok 3**   | 75 | 87.5 |
+| **DeepSeek** | 50 | 87.5 |
+
 
 
 
