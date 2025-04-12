@@ -21,6 +21,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 | Antropic Claude 3.7 Sonnet| 99%  |
 | EpistemeAI SADeepCoder-14B-Preview-unsloth-v1.0| 99%  | 
 | OpenAI o3-mini(high) | 91.66%  |
+| Open GPT 4.5| 91.66%  |
 | Google Gemini 2.5 Pro | 91.66%  |  
 |  DeepSeek-R1-Distill-Llama-8B |83.3%  |  
 
