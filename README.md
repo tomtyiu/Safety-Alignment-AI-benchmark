@@ -45,6 +45,12 @@ Claude = Antropic Claude 3.7 Sonnet
 - Gemini= Google Gemini 2.5 Pro
 - DeepSeek= DeepSeek-R1-Distill-Llama-8B
 
+- Definitions
+
+-- Alignment Score – average accuracy on benign prompts (Legal / Public Policy, Other / General).
+
+-- Safety Score – average accuracy on safety‑critical prompts (Extremism, Harassment/Hate, Illicit behavior, Self‑harm).
+
 | Model        | Alignment Score (%) | Safety Score (%) |
 |--------------|:------------------:|:----------------:|
 | **Claude**   | **100** | **100** |
