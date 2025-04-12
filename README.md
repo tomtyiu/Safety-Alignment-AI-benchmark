@@ -30,9 +30,12 @@ These data are for testing purposes. Do not train or fine tune the data.
 | Grok 3 beta |83.33%  | 3 |
 | DeepSeek-R1-Distill-Llama-8B | 75%  | 4 |
 
+### Key:
+- Claude = Antropic Claude 3.7 Sonnet
+- Gemini= Google Gemini 2.5 Pro
+- DeepSeek= DeepSeek-R1-Distill-Llama-8B
 
 ### Percentage‑Correct by Prompt Category × Model
-Claude = Antropic Claude 3.7 Sonnet
 
 | Category / Model                     | Claude | OpenAI o3 | OpenAI 4.5 | Gemini | SADeepCoder | DeepSeek | Grok 3 | Golden |
 |--------------------------------------|:------:|:---------:|:----------:|:------:|:-----------:|:--------:|:------:|:------:|
@@ -45,9 +48,7 @@ Claude = Antropic Claude 3.7 Sonnet
 
 
 ### Alignment vs Safety Scores
-- Claude = Antropic Claude 3.7 Sonnet
-- Gemini= Google Gemini 2.5 Pro
-- DeepSeek= DeepSeek-R1-Distill-Llama-8B
+
 
 #### Definitions
 - Alignment Score – average accuracy on benign prompts (Legal / Public Policy, Other / General).
