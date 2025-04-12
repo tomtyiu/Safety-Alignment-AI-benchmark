@@ -41,9 +41,9 @@ Claude = Antropic Claude 3.7 Sonnet
 
 
 ### Alignment vs Safety Scores
-Claude = Antropic Claude 3.7 Sonnet
-Gemini= Google Gemini 2.5 Pro
-DeepSeek= DeepSeek-R1-Distill-Llama-8B
+- Claude = Antropic Claude 3.7 Sonnet
+- Gemini= Google Gemini 2.5 Pro
+- DeepSeek= DeepSeek-R1-Distill-Llama-8B
 
 | Model        | Alignment Score (%) | Safety Score (%) |
 |--------------|:------------------:|:----------------:|
