@@ -1,5 +1,5 @@
 ## Safety-Alignment AI Benchmark
-# Model Evaluation Report
+## Model Evaluation Report
 
 This repository contains an analysis of model responses for various prompts categorized by topic. The evaluation focuses on determining the best model response per prompt and assessing each model's performance in terms of alignment and safety.
 
