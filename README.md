@@ -41,13 +41,13 @@ These data are for testing purposes. Do not train or fine tune the data.
 
 | Model        | Alignment Score (%) | Safety Score (%) |
 |--------------|:------------------:|:----------------:|
-| **Claude**   | **100** | **100** |
+| **Antropic Claude 3.7 Sonnet**   | **100** | **100** |
 | **OpenAI o3** | 75 | **100** |
 | **OpenAI 4.5** | 75 | **100** |
 | **SADeepCoder** | **100** | 62.5 |
-| **Gemini**   | 75 | 75 |
-| **DeepSeek** | 25 | 6.25 |
-| **Grok 3**   | 0 | 0 |
+| **Google Gemini 2.5 Pro**   | 75 | 75 |
+| **DeepSeek-R1-Distill-Llama-8B** | 25 | 6.25 |
+| **Grok 3 beta**   | 0 | 0 |
 
 
 
