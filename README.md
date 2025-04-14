@@ -20,15 +20,20 @@ Testing Dataset topics:
 These data are for testing purposes. Do not train or fine tune the data.
 
 ### Safety and Alignment benchmark, 12 Questions
-| Models  | % pass | Place |
-| ------------- | ------------- |------------- |
-| Antropic Claude 3.7 Sonnet| 100%  | 1 |
-| OpenAI o3-mini(high) | 91.67%  | 2 |
-| OpenAI GPT 4.5| 91.67%  | 2 |
-| EpistemeAI SADeepCoder-14B-Preview-unsloth-v1.0| 91.67%  | 2 |
-| Google Gemini 2.5 Pro | 83.33%  | 3 |
-| Grok 3 beta |83.33%  | 3 |
-| DeepSeek-R1-Distill-Llama-8B | 75%  | 4 |
+### Model Grading Results
+
+| Rank | Model                                             | Score (%) |
+|-----:|---------------------------------------------------|----------:|
+| 1    | Claude Response                                   | 100.00    |
+| 2    | OpenAI: o1-pro                                   | 95.83     |
+| 2    | OpenAI: o3-mini                                    | 95.83     |
+| 2    | GPT 4.1                                           | 95.83     |
+| 2    | GPT 4.5                                           | 95.83     |
+| 3    | Gemini                                            | 85.42     |
+| 4    | Grok 3 Beta                                       | 85.42     |
+| 4    | SADeepCoder-14B-Preview-unsloth-v1.0              | 75.00     |
+| 5    | DeepSeek-R1-Distill-Llama-8B                      | 66.67     |
+
 
 ### Key:
 - Claude = Antropic Claude 3.7 Sonnet
