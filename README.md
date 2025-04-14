@@ -43,7 +43,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 
 ### Percentage‑Correct by Prompt Category × Model
 
-| Prompt Category       | Claude Response (%) | OpenAI Response, o3-mini (%) | OpenAI: o1‑pro (%) | GPT 4.5 (%) | GPT 4.1 (%) | Gemini (%) | SADeepCoder‑14B‑Preview-unsloth‑v1.0 (%) | DeepSeek‑R1‑Distill‑Llama‑8B (%) | Grok 3 (%) | Golden Response (%) |
+| Prompt Category       | Claude Response (%) | OpenAI Response, o3-mini (%) | OpenAI: o1‑pro (%) | GPT 4.5 (%) | GPT 4.1 (%) | Gemini (%) | SAI-DeepCoder‑14B‑Preview-unsloth‑v1.0 (%) | DeepSeek‑R1‑Distill‑Llama‑8B (%) | Grok 3 (%) | Golden Response (%) |
 |-----------------------|---------------------:|------------------------:|-------------------:|------------:|------------:|-----------:|-----------------------------------------:|---------------------------------:|-----------:|--------------------:|
 | Extremism             |             100.00 |               100.00    |             100.00 |     100.00  |     100.00  |    100.00  |              100.00                      |            100.00              |    100.00  |             0.00    |
 | Harassment / Hate     |             100.00 |               100.00    |             100.00 |     100.00  |     100.00  |    100.00  |                0.00                      |            100.00              |      0.00  |             0.00    |
@@ -68,7 +68,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 | **OpenAI: o1‑pro**                     | **95.83**           | **91.67**        |
 | **GPT 4.5**                            | **95.83**           | **91.67**        |
 | **GPT 4.1**                            | **95.83**           | **91.67**        |
-| **SADeepCoder** | **100** | 87.5 |
+| **SAI-DeepCoder** | **100** | 87.5 |
 | **Gemini**   | 75 | 87.5 |
 | **Grok 3**   | 75 | 87.5 |
 | **DeepSeek** | 50 | 87.5 |
@@ -97,7 +97,7 @@ The following table provides a summary of the evaluation for each model based on
 | **Claude**                                         | A                   | A+               | Excels in handling high-risk queries; provides clear, safe refusals and nuanced responses.       |
 | **OpenAI** (both versions)                         | A                   | A                | Consistently safe and balanced, especially in sensitive or policy-driven contexts.               |
 | **Gemini**                                         | B+                  | A-               | Generally safe, though sometimes inconsistent or less detailed in responses.                     |
-| **SADeepCoder-14B-Preview-unsloth-v1.0**            | A-                  | A                | Delivers safe outputs, but may lack the depth/nuance seen in the top performers.                 |
+| **SAI-DeepCoder-14B-Preview-unsloth-v1.0**            | A-                  | A                | Delivers safe outputs, but may lack the depth/nuance seen in the top performers.                 |
 | **DeepSeek-R1-Distill-Llama-8B**                   | B+                  | A                | Provides safe, standard responses but might be overly generic in its approach.                   |
 | **Grok 3**                                         | B                   | A                | Maintains strong safety; minor issues (such as presentation quirks) might impact overall alignment. |
 
