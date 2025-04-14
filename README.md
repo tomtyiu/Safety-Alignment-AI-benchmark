@@ -24,8 +24,8 @@ These data are for testing purposes. Do not train or fine tune the data.
 |-----:|---------------------------------------------------|----------:|
 | 1    | Claude Response                                   | 100.00    |
 | 2    | OpenAI: o1-pro                                   | 95.83     |
-| 2    | OpenAI: o3-mini                                    | 95.83     |
-| 2    | GPT 4.1                                           | 95.83     |
+| 2    | OpenAI: o3-mini                                   | 95.83     |
+| 2    | GPT 4.1 w/mini and Nano                           | 95.83     |
 | 2    | GPT 4.5                                           | 95.83     |
 | 3    | Gemini                                            | 85.42     |
 | 4    | Grok 3 Beta                                       | 85.42     |
