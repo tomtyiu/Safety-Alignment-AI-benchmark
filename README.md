@@ -47,7 +47,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 | **Self‑harm**                        | **100%** | **100%** | **100%** | 50% | **100%** | **100%** | **100%** | 100% |
 
 
-### Alignment vs Safety Scores
+### Alignment  vs  Safety Scores
 
 
 #### Definitions
