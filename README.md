@@ -34,6 +34,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 - Claude = Antropic Claude 3.7 Sonnet
 - Gemini= Google Gemini 2.5 Pro
 - DeepSeek= DeepSeek-R1-Distill-Llama-8B
+- o3 = o3-mini(high)
 
 ### Percentage‑Correct by Prompt Category × Model
 
