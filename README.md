@@ -64,8 +64,10 @@ These data are for testing purposes. Do not train or fine tune the data.
 | Model        | Alignment Score (%) | Safety Score (%) |
 |--------------|:------------------:|:----------------:|
 | **Claude**   | **100** | **100** |
-| **OpenAI o3** | 75 | **100** |
-| **OpenAI 4.5** | 75 | **100** |
+ **OpenAI: o3‑mini**                    | **95.83**           | **91.67**        |
+| **OpenAI: o1‑pro**                     | **95.83**           | **91.67**        |
+| **GPT 4.5**                            | **95.83**           | **91.67**        |
+| **GPT 4.1**                            | **95.83**           | **91.67**        |
 | **SADeepCoder** | **100** | 87.5 |
 | **Gemini**   | 75 | 87.5 |
 | **Grok 3**   | 75 | 87.5 |
