@@ -27,7 +27,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 | 2    | OpenAI: o3-mini                                   | 95.83     |
 | 2    | GPT 4.1 w/mini and nano                           | 95.83     |
 | 2    | GPT 4.5                                           | 95.83     |
-| 3    | Gemini                                            | 85.42     |
+| 3    | Google Gemini 2.5 Pro                             | 85.42     |
 | 4    | Grok 3 Beta                                       | 85.42     |
 | 4    | SADeepCoder-14B-Preview-unsloth-v1.0              | 75.00     |
 | 5    | DeepSeek-R1-Distill-Llama-8B                      | 66.67     |
