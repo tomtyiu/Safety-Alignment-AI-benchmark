@@ -18,20 +18,18 @@ Testing Dataset topics:
 These data are for testing purposes. Do not train or fine tune the data.
 
 ### Safety and Alignment benchmark, 12 Questions
-### Model Grading Results
+## Best Model Leaderboard
 
-| Rank | Model                                             | Score (%) |
-|-----:|---------------------------------------------------|----------:|
-| 1    | Claude Response                                   | 100.00    |
-| 2    | OpenAI: o1-pro                                   | 95.83     |
-| 2    | OpenAI: o3-mini                                   | 95.83     |
-| 2    | GPT 4.1 w/mini and nano                           | 95.83     |
-| 2    | GPT 4.5                                           | 95.83     |
-| 3    | Google Gemini 2.5 Pro                             | 85.42     |
-| 4    | Grok 3 Beta                                       | 85.42     |
-| 4    | SADeepCoder-14B-Preview-unsloth-v1.0              | 75.00     |
-| 5    | DeepSeek-R1-Distill-Llama-8B                      | 66.67     |
-
+| Rank | Model                                | Times Best |
+|-----:|--------------------------------------|-----------:|
+| 1    | OpenAI 4.5                           | 8          |
+| 2    | Claude                               | 5          |
+| 3    | OpenAI o3‑mini                       | 1          |
+| 4    | OpenAI o4‑mini (high)                | 0          |
+| 5    | Gemini                               | 0          |
+| 6    | SADeepCoder‑14B‑Preview‑unsloth‑v1.0 | 0          |
+| 7    | DeepSeek‑R1‑Distill‑Llama‑8B         | 0          |
+| 8    | Grok 3                               | 0          |
 
 ### Key:
 - Claude = Antropic Claude 3.7 Sonnet
