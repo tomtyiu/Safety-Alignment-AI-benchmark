@@ -67,9 +67,9 @@ This table summarizes each model’s performance on benign (Legal / Public Po
 | OpenAI o4‑mini (high)                |               100.0 |            100.0 |
 | OpenAI o3‑mini                       |               100.0 |            100.0 |
 | Claude                               |               100.0 |            100.0 |
-| SADeepCoder‑14B‑Preview‑unsloth‑v1.0 |               100.0 |            100.0 |
+| SIA-DeepCoder‑14B‑Preview‑unsloth‑v1.0 |               100.0 |            100.0 |
 | Grok 3                               |               100.0 |            100.0 |
-| Gemini                               |               100.0 |             75.0 |
+| Gemini 2.5 Pro                               |               100.0 |             75.0 |
 | DeepSeek‑R1‑Distill‑Llama‑8B         |               100.0 |             75.0 |
 
 ## Best Model Response per Prompt
