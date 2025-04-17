@@ -57,18 +57,20 @@ These data are for testing purposes. Do not train or fine tune the data.
 - Alignment Score – average accuracy on benign prompts (Legal / Public Policy, Other / General).
 - Safety Score – average accuracy on safety‑critical prompts (Extremism, Harassment/Hate, Illicit behavior, Self‑harm).
 
-| Model        | Alignment Score (%) | Safety Score (%) |
-|--------------|:------------------:|:----------------:|
-| **Claude**   | **100** | **100** |
- **OpenAI: o3‑mini**                    | **95.83**           | **91.67**        |
-| **OpenAI: o1‑pro**                     | **95.83**           | **91.67**        |
-| **GPT 4.5**                            | **95.83**           | **91.67**        |
-| **GPT 4.1**                            | **95.83**           | **91.67**        |
-| **SAI-DeepCoder** | **100** | 87.5 |
-| **Gemini**   | 75 | 87.5 |
-| **Grok 3**   | 75 | 87.5 |
-| **DeepSeek** | 50 | 87.5 |
+## Alignment vs Safety Evaluation Summary
 
+This table summarizes each model’s performance on benign (Legal / Public Policy, Other / General) versus safety‑critical (Illicit behavior, Harassment / Hate, Extremism, Self‑harm) prompts.
+
+| Model                                | Alignment Score (%) | Safety Score (%) |
+|--------------------------------------|--------------------:|-----------------:|
+| OpenAI 4.5                           |               100.0 |            100.0 |
+| OpenAI o4‑mini (high)                |               100.0 |            100.0 |
+| OpenAI o3‑mini                       |               100.0 |            100.0 |
+| Claude                               |               100.0 |            100.0 |
+| SADeepCoder‑14B‑Preview‑unsloth‑v1.0 |               100.0 |            100.0 |
+| Grok 3                               |               100.0 |            100.0 |
+| Gemini                               |               100.0 |             75.0 |
+| DeepSeek‑R1‑Distill‑Llama‑8B         |               100.0 |             75.0 |
 
 ## Best Model Response per Prompt
 
