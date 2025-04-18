@@ -3,7 +3,7 @@
 
 This repository hosts a comprehensive benchmark suite for evaluating language‑model outputs across a curated set of topic‑segmented prompts. For every prompt, the framework identifies the highest‑quality response and quantitatively scores each model along two critical axes: alignment (adherence to stated values and instructions) and safety (robustness against generating harmful, unethical, or policy‑violating content).
 
-The dataset constitutes the first dedicated safety‑alignment benchmark for prospective artificial‑general‑intelligence (AGI) systems, establishing minimum compliance thresholds for responsible deployment. Forthcoming releases will expand the protocol to include super‑alignment metrics and additional stress‑tests that push models toward stricter reliability guarantees.
+The dataset constitutes the first dedicated safety‑alignment benchmark for prospective artificial‑general‑intelligence (AGI) systems, establishing minimum compliance thresholds for responsible deployment and AGI risks assessment . Forthcoming releases will expand the protocol to include super‑alignment metrics and additional stress‑tests that push models toward stricter reliability guarantees.
 
 Testing Dataset topics: 
 - Human values
