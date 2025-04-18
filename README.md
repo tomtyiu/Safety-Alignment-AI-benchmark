@@ -23,7 +23,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 | Rank | Model                                | Times Best |
 |-----:|--------------------------------------|-----------:|
 | 1    | OpenAI 4.5                           | 8          |
-| 2    | Claude                               | 5          |
+| 2    | Claude 3.7 Thinking                  | 5          |
 | 3    | OpenAI o3‑mini                       | 1          |
 | 4    | OpenAI o4‑mini (high)                | 0          |
 | 5    | Gemini                               | 0          |
