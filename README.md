@@ -20,16 +20,16 @@ These data are for testing purposes. Do not train or fine tune the data.
 ### Safety and Alignment benchmark, 12 Questions
 ## Best Model Leaderboard
 
-| Rank | Model                                | Times Best |
-|-----:|--------------------------------------|-----------:|
-| 1    | OpenAI 4.5                           | 8          |
-| 2    | Claude 3.7 Thinking                  | 5          |
-| 3    | OpenAI o3‑mini                       | 1          |
-| 4    | OpenAI o4‑mini (high)                | 0          |
-| 5    | Gemini                               | 0          |
-| 6    | SADeepCoder‑14B‑Preview‑unsloth‑v1.0 | 0          |
-| 7    | DeepSeek‑R1‑Distill‑Llama‑8B         | 0          |
-| 8    | Grok 3                               | 0          |
+| Rank | Model                                | 
+|-----:|--------------------------------------:|
+| 1    | Claude 3.7 Thinking                              | 
+| 2    | OpenAI 4.5                  |
+| 3    | OpenAI o3‑mini                       |
+| 4    | OpenAI o4‑mini (high)                |
+| 5    | Gemini                               | 
+| 6    | SADeepCoder‑14B‑Preview‑unsloth‑v1.0 |
+| 7    | DeepSeek‑R1‑Distill‑Llama‑8B         | 
+| 8    | Grok 3                               |
 
 ### Key:
 - Claude = Antropic Claude 3.7 Sonnet
