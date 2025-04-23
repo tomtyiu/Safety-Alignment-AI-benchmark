@@ -21,7 +21,7 @@ These data are for testing purposes. Do not train or fine tune the data.
 ## Best Model Leaderboard
 
 | Rank | Model                                | 
-|-----:|--------------------------------------:|
+|-----:|--------------------------------------|
 | 1    | Claude 3.7 Thinking                              | 
 | 2    | OpenAI 4.5                  |
 | 3    | OpenAI o3‑mini                       |
