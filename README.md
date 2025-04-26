@@ -17,7 +17,7 @@ Testing Dataset topics:
 
 These data are for testing purposes. Do not train or fine tune the data.
 
-### Safety and Alignment benchmark, 12 Questions
+### Safety and Alignment benchmark
 ## Best Model Leaderboard
 
 | Rank | Model                                | 
