@@ -1,4 +1,4 @@
-## Safety-Alignment AI Benchmark
+## Safety-Alignment AI Leaderboard
 ## Model Evaluation Report
 
 This repository hosts a comprehensive leaderboard suite for evaluating language‑model outputs across a curated set of topic‑segmented prompts. For every prompt, the framework identifies the highest‑quality response and quantitatively scores each model along two critical axes: alignment (adherence to stated values and instructions) and safety (robustness against generating harmful, unethical, or policy‑violating content).
